@@ -6,4 +6,4 @@ from sprint_tutorial.compute import my_sum
 
 
 def test_my_sum():
-    assert_equal(my_sum(0, 0), 0)
+    assert_equal(my_sum(3, 5), 8)
